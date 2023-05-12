@@ -19,5 +19,6 @@ public class BaseSteps extends ScenarioSteps {
 
   @After
   public void afterMethod(Scenario scenario) throws Exception {
+
   }
 }
